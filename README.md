@@ -4,19 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sr. Software Developer | Proficient in React, Angular and Node
 --------------------------------------------------------------
 
-With over 12 years of hands-on Web Development experience, I excel in both front-end and back-end technologies. 
-Operating within established frameworks, I bring a unique blend of skills to optimize user experiences.
+With over 12 years of hands-on Web Development experience, I excel in front-end and back-end technologies. 
+Operating within established frameworks, I bring unique skills to optimize user experiences.
 - Front-End Expertise: Proficient in ReactJs, Angular and React Native, I craft dynamic user interfaces, seamlessly translating interactions into captivating experiences.
 
 
 
-- Back-End Proficiency: From NodeJs to Java, Python, and Php, I architect robust back-end systems for seamless functionality.
+- Back-End Proficiency: From NodeJs to Java, Python, and PHP, I architect robust back-end systems for seamless functionality.
 
 
 - Framework Mastery: I leverage React, Angular, Spring, and Codeigniter to innovate across projects. 
 
 
-- Database Dexterity: Navigating SQLite, MySQL, MariaDB, AS400, Redis, and SOLR, I manage data efficiently. 
+- Database Dexterity: I manage data efficiently by navigating SQLite, MySQL, MariaDB, AS400, Redis, and SOLR. 
 
 
 - Leadership and Coordination: My strength lies in coordinating technical and business teams, ensuring seamless collaboration. 
