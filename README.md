@@ -72,8 +72,6 @@ Experience, projects and achievements on <a href="https://www.linkedin.com/in/ch
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandu6839)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandu6839&show_icons=true)  
-[issueopened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
-[issueclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
 
 [pullrequestopened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
 [pullrequestclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
