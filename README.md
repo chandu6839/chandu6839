@@ -5,12 +5,12 @@ Sr. Software Developer | Proficient in React, Angular and Node
 --------------------------------------------------------------
 
 With over 12 years of hands-on Web Development experience, I excel in front-end and back-end technologies. 
-Operating within established frameworks, I bring unique skills to optimize user experiences.
-- Front-End Expertise: Proficient in ReactJs, Angular and React Native, I craft dynamic user interfaces, seamlessly translating interactions into captivating experiences.
+Operating within established frameworks, I bring unique skills to optimise user experiences.
+- Front-End Expertise: Proficient in ReactJS, Angular and React Native, I craft dynamic user interfaces, seamlessly translating interactions into captivating experiences.
 
 
 
-- Back-End Proficiency: From NodeJs to Java, Python, and PHP, I architect robust back-end systems for seamless functionality.
+- Back-End Proficiency: From NodeJS to Java, Python, and PHP, I architect robust back-end systems for seamless functionality.
 
 
 - Framework Mastery: I leverage React, Angular, Spring, and Codeigniter to innovate across projects. 
@@ -28,14 +28,14 @@ Operating within established frameworks, I bring unique skills to optimize user 
 - Automation Aptitude: Proficient in Jenkins, Spinnaker, Kubernetes, and Docker, I streamline development processes. Holistic 
 
 
-Skills: HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, jQuery, React, Nextjs, Redux, Ramda, Nodejs, MongoDB, MySQL, Java, Python, PHP, and Spring. 
+Skills: HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, jQuery, React, NextJS, Redux, Ramda, NodeJS, MongoDB, MySQL, Java, Python, PHP, and Spring. 
 
 <p>As I journey through 8+ years of Web Development, my commitment to excellence remains unwavering. My blend of technical mastery and user-centric innovation stands ready to make impactful contributions to your projects.</p>
 
 * 🌍  I'm based in Dallas, Texas
 * ✉️  You can contact me at [chandraprakashagiri.dev@gmail.com](mailto:chandraprakashagiri.dev@gmail.com)
 * 🔗  Visit my Profile at [link](https://agiricp.github.io/profile/)
-* 🧠  I'm learning React, Python & Ruby
+* 🧠  I'm learning Python & Ruby
 * 🤝  I'm open to collaborating on Websites
 
 <a href="https://www.x.com/agirichandra" target="_blank" rel="noreferrer">
