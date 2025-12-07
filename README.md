@@ -33,7 +33,7 @@ Skills: HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, jQuery, React, Nextjs, Red
 <p>As I journey through 8+ years of Web Development, my commitment to excellence remains unwavering. My blend of technical mastery and user-centric innovation stands ready to make impactful contributions to your projects.</p>
 
 * 🌍  I'm based in Dallas, Texas
-* ✉️  You can contact me at [agiri.chandra@gmail.com](mailto:agiri.chandra@gmail.com)
+* ✉️  You can contact me at [chandraprakashagiri.dev@gmail.com](mailto:chandraprakashagiri.dev@gmail.com)
 * 🔗  Visit my Profile at [link](https://agiricp.github.io/profile/)
 * 🧠  I'm learning React, Python & Ruby
 * 🤝  I'm open to collaborating on Websites
