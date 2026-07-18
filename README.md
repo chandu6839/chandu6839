@@ -13,7 +13,7 @@ I work within established frameworks and use my skills to improve user experienc
 - Back-End Proficiency: From NodeJS to Java, Python, and PHP, I architect robust back-end systems for seamless functionality.
 
 
-- Framework Mastery: I leverage React, Angular, Spring, and Codeigniter to innovate across projects. 
+- Framework Mastery: I leverage React, Angular, Spring, and CodeIgniter to innovate across projects. 
 
 
 - Database Dexterity: I manage data efficiently by navigating SQLite, MySQL, MariaDB, AS400, Redis, and SOLR. 
@@ -32,10 +32,9 @@ Skills: HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, jQuery, React, NextJS, Red
 
 <p>As I journey through 8+ years of Web Development, my commitment to excellence remains unwavering. My blend of technical mastery and user-centric innovation stands ready to make impactful contributions to your projects.</p>
 
-* 🌍  I'm based in Dallas, Texas
+* 🌍  I'm based in Karlsruhe, Germany
 * ✉️  You can contact me at [chandraprakashagiri.dev@gmail.com](mailto:chandraprakashagiri.dev@gmail.com)
 * 🔗  Visit my Profile at [link](https://agiricp.github.io/profile/)
-* 🧠  I'm learning Python & Ruby
 * 🤝  I'm open to collaborating on Websites
 
 <a href="https://www.x.com/agirichandra" target="_blank" rel="noreferrer">
