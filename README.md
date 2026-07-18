@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sr. Software Developer | Proficient in React, Angular and Node
 --------------------------------------------------------------
 
-With over 14+ years of hands-on Web Development experience, I excel in front-end and back-end technologies. 
-I work within established frameworks and bring skills to optimise user experiences.
+With over 14+ years of hands-on Web and mobile Development experience, I excel in front-end and back-end technologies. 
+I work within established frameworks and use my skills to improve user experiences.
 - Front-End Expertise: Proficient in ReactJS, Angular and React Native, I craft dynamic user interfaces, seamlessly translating interactions into captivating experiences.
 
 
